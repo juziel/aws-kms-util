@@ -1,4 +1,4 @@
-# aws-scale
+# aws-kms-util
 A quick script for users to encrypt and decrypt values using kms.
 
 # Requirements
